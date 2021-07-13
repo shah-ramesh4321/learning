@@ -9,3 +9,10 @@
 5. connect to server cloud
 6. git remote add origin https://github.com/shah-ramesh4321/learning.git
 7. git push -u origin master
+
+
+# when we want to push in another branch
+
+```
+git push --set-upstream origin <branch_name>
+```
